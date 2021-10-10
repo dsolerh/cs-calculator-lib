@@ -1,0 +1,12 @@
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/bin/Debug/net5.0/calculator-lib.deps.json
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/bin/Debug/net5.0/calculator-lib.dll
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/bin/Debug/net5.0/ref/calculator-lib.dll
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/bin/Debug/net5.0/calculator-lib.pdb
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/calculator-lib.csproj.AssemblyReference.cache
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/calculator-lib.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/calculator-lib.AssemblyInfoInputs.cache
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/calculator-lib.AssemblyInfo.cs
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/calculator-lib.csproj.CoreCompileInputs.cache
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/calculator-lib.dll
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/ref/calculator-lib.dll
+/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/calculator-lib.pdb
