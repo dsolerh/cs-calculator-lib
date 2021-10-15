@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/calculator-lib.csproj",
+      "projectUniqueName": "/home/daniel/Documents/Projects/netcore/cs-calculator-lib/calculator-lib.csproj",
       "projectName": "calculator-lib",
-      "projectPath": "/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/calculator-lib.csproj",
+      "projectPath": "/home/daniel/Documents/Projects/netcore/cs-calculator-lib/calculator-lib.csproj",
       "packagesPath": "/home/daniel/.nuget/packages/",
-      "outputPath": "/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/",
+      "outputPath": "/home/daniel/Documents/Projects/netcore/cs-calculator-lib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/daniel/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }

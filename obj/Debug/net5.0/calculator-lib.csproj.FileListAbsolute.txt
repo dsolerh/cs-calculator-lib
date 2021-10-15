@@ -10,3 +10,15 @@
 /mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/calculator-lib.dll
 /mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/ref/calculator-lib.dll
 /mnt/Storage/Projects/netcore/c#book-code/calculator-lib/obj/Debug/net5.0/calculator-lib.pdb
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/bin/Debug/net5.0/calculator-lib.deps.json
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/bin/Debug/net5.0/calculator-lib.dll
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/bin/Debug/net5.0/ref/calculator-lib.dll
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/bin/Debug/net5.0/calculator-lib.pdb
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/obj/Debug/net5.0/calculator-lib.csproj.AssemblyReference.cache
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/obj/Debug/net5.0/calculator-lib.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/obj/Debug/net5.0/calculator-lib.AssemblyInfoInputs.cache
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/obj/Debug/net5.0/calculator-lib.AssemblyInfo.cs
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/obj/Debug/net5.0/calculator-lib.csproj.CoreCompileInputs.cache
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/obj/Debug/net5.0/calculator-lib.dll
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/obj/Debug/net5.0/ref/calculator-lib.dll
+/home/daniel/Documents/Projects/netcore/cs-calculator-lib/obj/Debug/net5.0/calculator-lib.pdb

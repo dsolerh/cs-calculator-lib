@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GznJjSgNNLSlUIVIs2EFv2o/Ys+xpe+ZcluusTFUAYAe/2CNg5ooyokjSo4Z8w64OQFqXhQJpEYZXFyutdIsbw==",
+  "dgSpecHash": "7EKL5EZBh5H5g1XdtXVrGI9NXK9GBFhgTznwOnZ5joEcN59NypM7vTgfRSsOli8xLlyIyRY6VJBKNZ+M+6Uqyg==",
   "success": true,
-  "projectFilePath": "/mnt/Storage/Projects/netcore/c#book-code/calculator-lib/calculator-lib.csproj",
+  "projectFilePath": "/home/daniel/Documents/Projects/netcore/cs-calculator-lib/calculator-lib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
